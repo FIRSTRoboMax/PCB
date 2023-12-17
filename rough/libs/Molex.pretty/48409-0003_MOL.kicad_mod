@@ -1,5 +1,6 @@
 (footprint "48409-0003_MOL" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "2 port Vertical Through Hole Version 3 Type A USB Connector")
   (tags "484090003 ")
   (attr through_hole)
   (fp_text reference "REF**" (at 3.500001 0 unlocked) (layer "F.SilkS")

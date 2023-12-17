@@ -1,4 +1,9 @@
 (sym_lib_table
   (version 7)
   (lib (name "Snapeda")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Snapeda_kicad_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "Wago")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Wago.kicad_sym")(options "")(descr ""))
+  (lib (name "Weidmuller")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Weidmuller.kicad_sym")(options "")(descr ""))
+  (lib (name "Taoglas")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Taoglas.kicad_sym")(options "")(descr ""))
+  (lib (name "TE")(type "KiCad")(uri "${KICAD_3RD_PARTY}/TE.kicad_sym")(options "")(descr ""))
+  (lib (name "Molex")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Molex.kicad_sym")(options "")(descr ""))
 )

@@ -1,5 +1,6 @@
 (footprint "CONN12_0012BENL_TAL" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "1 Port RJ45 Through Hole 10/100 Base-T, AutoMDIX")
   (tags "TMJD0012BENL ")
   (attr through_hole)
   (fp_text reference "REF**" (at -4.445 -10.54 unlocked) (layer "F.SilkS")
