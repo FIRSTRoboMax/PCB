@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Snapeda")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Snapeda_kicad_sym.kicad_sym")(options "")(descr ""))
+)
